@@ -1,0 +1,75 @@
+{% include 'product-variantPopover' %}
+
+{% assign on_sale = false %}
+{% if product.compare_at_price > product.price %}
+	{% assign on_sale = true %}
+	{% assign on_sale_class = ' is-sale' %}
+{% endif %}
+
+{% assign sold_out = true %}
+{% if product.available %}
+	{% assign sold_out = false %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Product">
+	<meta itemprop="url" content="{{ shop.url }}{{ product.url }}">
+  	<meta itemprop="description" content="{{ product.description | strip_html | escape | strip_newlines }}">
+	<meta itemprop="image" content="{{ product.featured_image.src | img_url: 'grande' }}">
+  	{%- if product.variants.first.barcode -%}
+  		<meta itemprop="gtin8" content="{{ product.variants.first.barcode }}">
+  	{%- endif -%}
+  	{%- if product.vendor -%}
+    	<meta itemprop="brand" content="{{ product.vendor | escape }}">
+    {%- endif -%}
+  	{%- if product.first_available_variant.sku != blank -%}
+  		<meta itemprop="sku" content="{{ product.first_available_variant.sku }}">
+    {%- else -%}
+  		<meta itemprop="sku" content="{{ product.first_available_variant.id }}">
+    {%- endif -%}
+
+    {%- if product.first_available_variant.barcode.size == 12 -%}
+  		<meta itemprop="gtin12" content="{{ product.first_available_variant.barcode }}">
+    {%- endif -%}
+    {%- if product.first_available_variant.barcode.size == 13 -%}
+  		<meta itemprop="gtin13" content="{{ product.first_available_variant.barcode }}">
+    {%- endif -%}
+    {%- if product.first_available_variant.barcode.size == 14 -%}
+  		<meta itemprop="gtin14" content="{{ product.first_available_variant.barcode }}">
+    {%- endif -%}
+	
+		{% section 'product-template_premium' %}
+		{% section 'faq-section__product_premium' %}
+		{% section 'related-products_premium' %}
+        {% section 'newsletter' %}
+  
+	<span id="product-json" hidden>{{ product | json }}</span>
+</div>
+
+<script text="text/javascript">
+  var _learnq = _learnq || [];
+
+  var item = {
+    Name: {{ product.title|json }},
+    ProductID: {{ product.id|json }},
+    Categories: {{ product.collections|map:'title'|json }},
+    ImageURL: "https:{{ product.featured_image.src|img_url:'grande' }}",
+    URL: "{{ shop.secure_url }}{{ product.url }}",
+    Brand: {{ product.vendor|json }},
+    Price: {{ product.price|money|json }},
+    CompareAtPrice: {{ product.compare_at_price_max|money|json }}
+  };
+
+  _learnq.push(['track', 'Viewed Product', item]);
+  _learnq.push(['trackViewedItem', {
+    Title: item.Name,
+    ItemId: item.ProductID,
+    Categories: item.Categories,
+    ImageUrl: item.ImageURL,
+    Url: item.URL,
+    Metadata: {
+      Brand: item.Brand,
+      Price: item.Price,
+      CompareAtPrice: item.CompareAtPrice
+    }
+  }]);
+</script>

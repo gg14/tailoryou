@@ -1,0 +1,3713 @@
+{
+  "current": {
+    "color_heading_new": "#343741",
+    "color_text_new": "#343741",
+    "color_primary_new": "#343741",
+    "color_secondary_new": "#343741",
+    "color_border_new": "#e4e4e4",
+    "color_background_new": "#ffffff",
+    "color_button_bg": "#00f23f",
+    "color_button_text": "#343741",
+    "color_top_bar": "#343741",
+    "color_top_bar_text": "#00f23f",
+    "color_header_bg_home": "rgba(0,0,0,0)",
+    "color_header_text_home": "#ffffff",
+    "color_header_bg": "#343741",
+    "color_header_text": "#ffffff",
+    "color_header_bg_scroll": "#343741",
+    "color_header_text_scroll": "#ffffff",
+    "color_dropdown_bg": "#fff",
+    "color_dropdown_text": "#000000",
+    "drawer_bg_color": "#fff",
+    "drawer_text_color": "#000",
+    "header_icon_color_home": "#000000",
+    "header_bg_color_home": "#ffffff",
+    "header_icon_color": "#000000",
+    "header_bg_color": "#ffffff",
+    "header_icon_color_scroll": "#222222",
+    "header_bg_color_scroll": "#ffffff",
+    "color_badge_text": "#ffffff",
+    "color_badge_bg": "#2e3234",
+    "color_footer_text": "#ffffff",
+    "color_footer_bg": "#343741",
+    "color_bottom_bar_bg": "#343741",
+    "header_font_picker": "caslon_bold_n4",
+    "base_font_size": 16,
+    "heading_letter_spacing": 0,
+    "general_font_picker": "roboto_n4",
+    "body_font_size": 18,
+    "body_letter_spacing": 0,
+    "transition_grid_items": true,
+    "transition_product_features": true,
+    "transition_images_fade": true,
+    "transition_collections_list": true,
+    "show_search": true,
+    "search_suggested_collection": "",
+    "search_suggested_page_1": "",
+    "search_suggested_page_2": "",
+    "search_suggested_blog": "",
+    "search_suggested_collection_heading": "",
+    "search_suggested_pages_heading": "",
+    "search_suggested_blog_heading": "",
+    "search_suggested_text_color": "#ffffff",
+    "search_suggested_overlay_color": "#222222",
+    "search_suggested_overlay_opacity": 10,
+    "image_aspect_ratio": 1,
+    "show_quick_view": false,
+    "show_quick_view_description": false,
+    "price_hover": false,
+    "show_quantity": false,
+    "hover_image": false,
+    "color_swatches": false,
+    "color_swatches_style": "circle",
+    "products_rows": 4,
+    "products_columns": 3,
+    "enable_ajax_cart": true,
+    "enable_cart_order_notes": true,
+    "show_continue_shopping": false,
+    "tax_text": "",
+    "enable_payment_button": false,
+    "show_custom_cursor": false,
+    "custom_cursor_image": "shopify:\/\/shop_images\/icono.png",
+    "show_breadcrumbs": true,
+    "show_reviews": true,
+    "enable_yotpo": false,
+    "yotpo_ID": "",
+    "favicon": "shopify:\/\/shop_images\/icono.png",
+    "social_share_image": "shopify:\/\/shop_images\/Pantone_802.png",
+    "twitter_url": "",
+    "facebook_url": "https:\/\/www.facebook.com\/TAILORYOUNOW",
+    "pinterest_url": "",
+    "instagram_url": "http:\/\/instagram.com\/tailoryounow",
+    "tumblr_url": "",
+    "youtube_url": "",
+    "rss_url": "",
+    "share_on_twitter": true,
+    "share_on_facebook": true,
+    "share_on_pinterest": true,
+    "show_multiple_currencies": false,
+    "currency_format": "money_format",
+    "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+    "default_currency": "USD",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_Pantone_802.jpg",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "small",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#343741",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#6dd04d",
+    "checkout_button_color": "#6dd04d",
+    "checkout_error_color": "#e32c2b",
+    "color_overlay_bg": "#000",
+    "color_seconsdary_new": "#2e3234",
+    "promo_banner_style": "primary",
+    "promo_url_enabled": false,
+    "logo_enabled": true,
+    "browse_by_tag_enabled": true,
+    "collection_collectionGrid_columns": "3",
+    "nav_bg_color": "#f4f4f4",
+    "nav_text_color": "#222222",
+    "twitter_via": "",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/retallat.png",
+          "logo_other": "shopify:\/\/shop_images\/retallat.png",
+          "logo_max_width": 170,
+          "show_site_name": false,
+          "show_account_icon": true,
+          "menu_list": "main-menu",
+          "nav_layout": "standard",
+          "links_position": "links_center",
+          "logo_position": "logo_left",
+          "meganav_image": "",
+          "meganav_image_heading": "",
+          "meganav_image_link": "",
+          "show_announcement": false,
+          "show_announcement_on_mobile": false,
+          "text": "<p>Broadcast sales, promos, or other offerings here<\/p>",
+          "link": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "show_title": true,
+          "show_filter": false,
+          "show_sort_filter": false,
+          "show_banner": false,
+          "banner_height": "original-height",
+          "banner_subheading": "",
+          "banner_text_position": "left",
+          "heading_size": "small",
+          "text_size": "small",
+          "banner_color_text": "#ffffff",
+          "banner_color_overlay": "#222222",
+          "banner_overlay_opacity": 10,
+          "featured": "none",
+          "featured_image": "",
+          "featured_heading": "Conoce tu edad real",
+          "featured_text": "",
+          "featured_button_text": "",
+          "featured_button_link": "",
+          "featured_button_style": "primary",
+          "featured_color_text": "#ffffff",
+          "featured_color_overlay": "#222222",
+          "featured_overlay_opacity": 10
+        }
+      },
+      "1498737500673": {
+        "type": "slideshow",
+        "blocks": {
+          "1576165112304": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Home_Slider_01.jpg",
+              "image_mobile": "",
+              "image_position": "right-center",
+              "alignment": "left",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "SÉ TU MEJOR TÚ",
+              "text": "<p>A partir del an&aacute;lisis de tu ADN te ofrecemos los mejores tratamientos personalizados en salud y bienestar<\/p>",
+              "cta": "EMPIEZA AHORA",
+              "link": "shopify:\/\/pages\/soluciones-personalizadas",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 30,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          },
+          "1574685733726": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Home_Slider_02_Red.jpg",
+              "image_mobile": "",
+              "image_position": "right-center",
+              "alignment": "left",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "TUS GENES HABLAN. ¿LOS ESCUCHAS?",
+              "text": "<p>Conoce la edad real de tus c&eacute;lulas con nuestro test de ADN.&nbsp;<\/p>",
+              "cta": "DESCUBRE CÓMO",
+              "link": "shopify:\/\/pages\/anti-aging-1",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 0,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          }
+        },
+        "block_order": [
+          "1576165112304",
+          "1574685733726"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": true,
+          "show_arrow_down": false,
+          "autoplay": true,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "sixty-fifty-height-hero"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_layout": "slideshow",
+          "image_gallery": "none",
+          "image_size": "large",
+          "add_cart_position": "top",
+          "show_vendor": false,
+          "show_quantity": false,
+          "show_cart_bar": false,
+          "show_newsletter": true,
+          "text_newsletter": "<p>Av&iacute;same cuando est&eacute; disponible este producto<\/p>",
+          "page_tab_1": "",
+          "page_tab_2": "",
+          "page_tab_3": "",
+          "product_slideshow_dots": false,
+          "product_slideshow_arrows": false
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1528202806381": {
+            "type": "logo",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/retallat.png",
+              "logo_width": 130,
+              "mobile_hide_block": false
+            }
+          },
+          "1574843517663": {
+            "type": "menu",
+            "settings": {
+              "menu": "acerca-de-nosotros",
+              "title": "ACERCA DE NOSOTROS",
+              "mobile_hide_block": true
+            }
+          },
+          "1574847168112": {
+            "type": "menu",
+            "settings": {
+              "menu": "terminos-y-condiciones-1",
+              "title": "LEGAL",
+              "mobile_hide_block": true
+            }
+          }
+        },
+        "block_order": [
+          "1528202806381",
+          "1574843517663",
+          "1574847168112"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "show_social_icons": true,
+          "menu": ""
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "show_popup": "disabled",
+          "popup_header": "Suscríbete a nuestra Newsletter",
+          "popup_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+          "text_alignment": "center",
+          "show_popup_newsletter": true,
+          "popup_delay": 5,
+          "popup_reappear_time": "0",
+          "popup_image": "shopify:\/\/shop_images\/destacats.001.jpeg"
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+          "color": "#222",
+          "background": "#fff",
+          "title": "NEWSLETTER",
+          "content": "<p>Let's keep in touch<\/p>"
+        }
+      },
+      "product-features": {
+        "type": "product-features",
+        "blocks": {
+          "1528250359730": {
+            "type": "text",
+            "settings": {
+              "heading": "This is a heading for a Product feature block.",
+              "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+              "image": "",
+              "image_link": "",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "primary"
+            }
+          },
+          "1528250384489": {
+            "type": "text",
+            "settings": {
+              "heading": "This is a heading for a Product feature block.",
+              "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+              "image": "",
+              "image_link": "",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "primary"
+            }
+          }
+        },
+        "block_order": [
+          "1528250359730",
+          "1528250384489"
+        ],
+        "settings": {
+          "blocks_alignment": "center",
+          "heading_font_size": 28,
+          "text_font_size": 14
+        }
+      },
+      "rich-text": {
+        "type": "rich-text",
+        "settings": {
+          "layout": "default",
+          "heading_align": "left",
+          "heading_font_size": 28,
+          "text_font_size": 16,
+          "subheading": "",
+          "title": "",
+          "content": "",
+          "accent_line": "curved",
+          "accent_line_color": "#333",
+          "cta": "",
+          "link": "",
+          "button_style": "primary",
+          "button_position": "left"
+        }
+      },
+      "icons-row": {
+        "type": "icons-row",
+        "blocks": {
+          "1528250366509": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "",
+              "title": "Feature",
+              "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+            }
+          },
+          "1528250367690": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "",
+              "title": "Feature",
+              "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+            }
+          },
+          "1528250369041": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "",
+              "title": "Feature",
+              "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+            }
+          }
+        },
+        "block_order": [
+          "1528250366509",
+          "1528250367690",
+          "1528250369041"
+        ],
+        "settings": {
+          "color_icons_bg": "#fafafa",
+          "color_icons_text": "#333"
+        }
+      },
+      "1532039050804": {
+        "type": "testimonials",
+        "disabled": true,
+        "blocks": {
+          "1532039050804-0": {
+            "type": "testimonial",
+            "settings": {
+              "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+              "author": "John Doe"
+            }
+          },
+          "1532039050804-1": {
+            "type": "testimonial",
+            "settings": {
+              "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+              "author": "John Doe"
+            }
+          },
+          "1532039050804-2": {
+            "type": "testimonial",
+            "settings": {
+              "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+              "author": "John Doe"
+            }
+          }
+        },
+        "block_order": [
+          "1532039050804-0",
+          "1532039050804-1",
+          "1532039050804-2"
+        ],
+        "settings": {
+          "title": "Testimonials",
+          "title_position": "left",
+          "blocks_text_align": "justify",
+          "hide_quotes": false,
+          "columns": 3,
+          "accent_line": "curved",
+          "accent_line_color": "#333333"
+        }
+      },
+      "1532039110708": {
+        "type": "featured-blog",
+        "settings": {
+          "layout": "wrapped",
+          "image_size": "normal",
+          "blogName": "news",
+          "heading": "",
+          "text": "",
+          "cta": "",
+          "button_style": "primary",
+          "tags": true,
+          "author": true,
+          "article_rows": 1,
+          "article_columns": 1
+        }
+      },
+      "1532039151588": {
+        "type": "instagram",
+        "settings": {
+          "instaToken": "28185024889.1677ed0.ff4e656d041e45c58bb640d721f2360b",
+          "rows": 1,
+          "columns": 4,
+          "show_featured": false,
+          "title": "INSTAGRAM",
+          "cta": "Síguenos",
+          "link": "",
+          "button_style": "primary",
+          "color_text": "#343741",
+          "color_overlay": "#00f23f",
+          "overlay_opacity": 95
+        }
+      },
+      "list-collections-page-template": {
+        "type": "list-collections-page-template",
+        "settings": {
+          "show_description": true,
+          "collections_columns": 2,
+          "coll_text_position": "center",
+          "button_text": "Ver Productos",
+          "text_color": "#ffffff",
+          "overlay_color": "rgba(0,0,0,0)",
+          "overlay_opacity": 10
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "show_blog_name": false,
+          "show_rss": true,
+          "show_featured_post": true,
+          "tags": true,
+          "author": false,
+          "show_comments": false,
+          "layout": "wrapped",
+          "image_size": "normal",
+          "article_rows": 2,
+          "article_columns": 3,
+          "accent_line": "none",
+          "accent_line_color": "#333"
+        }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "1532039480983": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_mobile": "",
+              "image_position": "center-center",
+              "alignment": "center",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Welcome to Modular",
+              "text": "<p>A unique layout with a striking design<\/p>",
+              "cta": "Shop Now",
+              "link": "shopify:\/\/collections\/all",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 30,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          },
+          "1532039484050": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_mobile": "",
+              "image_position": "center-center",
+              "alignment": "center",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Welcome to Modular",
+              "text": "<p>A unique layout with a striking design<\/p>",
+              "cta": "Shop Now",
+              "link": "shopify:\/\/collections\/all",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 30,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          }
+        },
+        "block_order": [
+          "1532039480983",
+          "1532039484050"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "show_arrow_down": false,
+          "autoplay": true,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "one-hundred-height-hero"
+        }
+      },
+      "1574693744557": {
+        "type": "image-with-text",
+        "blocks": {
+          "1574693744557-0": {
+            "type": "gallery_image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/Home_edad.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1574693744557-0"
+        ],
+        "settings": {
+          "showNavDots": false,
+          "showNavArrows": false,
+          "transition": "slide",
+          "autoplay": false,
+          "duration": 4,
+          "color_style": "black",
+          "show_margins": false,
+          "slide_height": "five-fifty-height-hero",
+          "slide_image_position": "left",
+          "slide_image_width": "med_s12|med_s12",
+          "subheading": "",
+          "title": "DESCUBRE TU \nEDAD REAL",
+          "content": "<p>Soluci&oacute;n Anti-aging Personalizada.<\/p>\n<p>Con nuestro test de ADN ahora puedes conocer la edad real de tus c&eacute;lulas y conseguir tu mejor versi&oacute;n con nuestros tratamientos personalizados.&nbsp;<\/p>",
+          "cta": "INFÓRMATE AQUÍ",
+          "link": "shopify:\/\/pages\/anti-aging-1",
+          "button_style": "primary"
+        }
+      },
+      "faq-section__product": {
+        "type": "faq-section__product",
+        "blocks": {
+          "1577113920793": {
+            "type": "item",
+            "settings": {
+              "title": "¿Crees que es para ti?",
+              "answer": "<p>S&iacute;, si has realizado el Test de Edad Real y deseas continuar con tu Tratamiento Antiaging Basic. <\/p>\n<p>&iquest;Quieres cambiar tu tratamiento antiaging a modalidad Premium? Solicita una Visita Online M&eacute;dica para <a href=\"\/products\/visita-online-medica-formulacion-antiaging-premium\" title=\"Visita M&eacute;dica Online + Formulaci&oacute;n Anti-aging Premium (una vez realizado test ADN)\">Tratamiento Anti-aging Premium<\/a>.<\/p>"
+            }
+          },
+          "1577113994921": {
+            "type": "item",
+            "settings": {
+              "title": "Origen",
+              "answer": "<p>Todos nuestros productos son de origen natural y sin gluten.<br>Nuestros proveedores cultivan la mayor parte de sus ingredientes en sus propias plantaciones para asegurar la calidad y sostenibilidad de todo el proceso.<\/p>"
+            }
+          },
+          "1577114031539": {
+            "type": "item",
+            "settings": {
+              "title": "Dosificación",
+              "answer": "<p>Nuestro equipo de investigaci&oacute;n ha optimizado la dosificaci&oacute;n de todos los principios activos para adaptarlos a los resultados del Test de Tu Edad Real.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1577113920793",
+          "1577113994921",
+          "1577114031539"
+        ],
+        "settings": {
+          "subheading": "",
+          "title": ""
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "settings": {
+          "related_products_enable": true,
+          "limit": 4,
+          "product_recommendations_heading": "PRODUCTOS RELACIONADOS"
+        }
+      },
+      "faq-template": {
+        "type": "faq-template",
+        "settings": {
+          "hide_title": false,
+          "subheading": "Questions and answers",
+          "text": ""
+        }
+      },
+      "1574848678860": {
+        "type": "product-features",
+        "disabled": true,
+        "blocks": {
+          "1576057084223": {
+            "type": "text",
+            "settings": {
+              "heading": "TEST EDAD REAL",
+              "description": "<p>Tu nivel de envejecimiento no tiene por qu&eacute; coincidir con tus a&ntilde;os.<\/p>\n<p>Con nuestro test de ADN ahora puedes conocer cu&aacute;l es la edad real de tus c&eacute;lulas.<\/p>",
+              "image": "shopify:\/\/shop_images\/Captura_de_pantalla_2019-12-11_a_las_11.06.51.png",
+              "image_link": "shopify:\/\/products\/test-adn-de-edad-real",
+              "button_text": "COMPRAR",
+              "button_link": "shopify:\/\/products\/test-adn-de-edad-real",
+              "button_style": "primary"
+            }
+          },
+          "1574848678860-0": {
+            "type": "text",
+            "settings": {
+              "heading": "¿POR QUÉ HACERME EL TEST?",
+              "description": "<p>Porque si sabes c&oacute;mo est&aacute;n tus c&eacute;lulas, puedes mejorar su grado de envejecimiento.<\/p>\n<p>En primer lugar puedes mejorar tus h&aacute;bitos de vida. Ya sabes: comer mejor, dormir m&aacute;s, no sufrir stress, hacer m&aacute;s ejercicio&hellip;<\/p>\n<p>Pero sabemos que no tienes mucho tiempo y que a veces resulta imposible cambiar algunas cosas.<\/p>\n<p>Por eso te proponemos tratamientos personalizados para ayudarte a dar el primer paso. Escogemos, en funci&oacute;n de tu ADN y de tu estilo de vida, los ingredientes naturales que, seg&uacute;n los estudios cl&iacute;nicos realizados, mejoran el nivel de envejecimiento de tus c&eacute;lulas.<\/p>",
+              "image": "shopify:\/\/shop_images\/adn.jpg",
+              "image_link": "",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "primary"
+            }
+          }
+        },
+        "block_order": [
+          "1576057084223",
+          "1574848678860-0"
+        ],
+        "settings": {
+          "blocks_alignment": "center",
+          "heading_font_size": 28,
+          "text_font_size": 14
+        }
+      },
+      "1574849110645": {
+        "type": "faq-section",
+        "disabled": true,
+        "blocks": {
+          "1574849110645-0": {
+            "type": "item",
+            "settings": {
+              "title": "¿Qué mide el test?",
+              "answer": "<p>El Test de ADN de EDAD REAL mide la longitud de los tel&oacute;meros.<\/p>\n<p>Los tel&oacute;meros son los extremos de los cromosomas. Act&uacute;an como una especie de tapones que protegen las cadenas de ADN.<\/p>"
+            }
+          },
+          "1574849610899": {
+            "type": "item",
+            "settings": {
+              "title": "¿Y qué me dice la longitud de los telómeros?",
+              "answer": "<p>Cada vez que una c&eacute;lula se divide, sus tel&oacute;meros se van acortando.<\/p>\n<p>Cuando son demasiado cortos, la c&eacute;lula no puede dividirse m&aacute;s y acaba muriendo.&nbsp;&nbsp;<\/p>\n<p>Los tel&oacute;meros son como relojes biol&oacute;gicos. Su longitud es una medida de tu nivel de envejecimiento.<\/p>\n<p>Tener tel&oacute;meros largos permite vivir m&aacute;s y retrasa la aparici&oacute;n de enfermedades.&nbsp;<\/p>"
+            }
+          },
+          "1574849110645-1": {
+            "type": "item",
+            "settings": {
+              "title": "Pero, ¿se puede mejorar la longitud de los telómeros?",
+              "answer": "<p>La buena noticia es que s&iacute;.<\/p>\n<p>Hay multitud de estudios que relacionan un buen estilo de vida y el consumo de vitaminas y otros principios activos naturales con la longitud de los tel&oacute;meros.&nbsp;&nbsp;<\/p>"
+            }
+          },
+          "1574849110645-2": {
+            "type": "item",
+            "settings": {
+              "title": "Estudios sobre telómeros y envejecimiento",
+              "answer": "<p>Ventura Marra M, Drazba MA, Hol&aacute;skov&aacute; I, Belden WJ. Nutrition Risk is Associated with Leukocyte Telomere Length in Middle-Aged Men and Women with at Least One Risk Factor for Cardiovascular Disease. Nutrients. 2019 Feb 27;11(3). pii: E508. doi: 10.3390\/nu11030508. PubMed PMID: 30818839; PubMed Central PMCID: PMC6471290.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30818839\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/30818839<\/a><\/p>\n<p>Reichert S, Stier A. Does oxidative stress shorten telomeres in vivo? A review. Biol Lett. 2017 Dec;13(12). pii: 20170463. doi: 10.1098\/rsbl.2017.0463. Review. PubMed PMID: 29212750; PubMed Central PMCID: PMC5746531.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/29212750\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/29212750<\/a><\/p>\n<p>Peng H, Mete M, Desale S, Fretts AM, Cole SA, Best LG, Lin J, Blackburn E, Lee ET, Howard BV, Zhao J. Leukocyte telomere length and ideal cardiovascular health in American Indians: the Strong Heart Family Study. Eur J Epidemiol. 2017 Jan;32(1):67-75. doi: 10.1007\/s10654-016-0199-6. Epub 2016 Sep 22. PubMed PMID: 27660162; PubMed Central PMCID: PMC5618104.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27660162\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/27660162<\/a><\/p>\n<p>Crous-Bou M, Fung TT, Prescott J, Julin B, Du M, Sun Q, Rexrode KM, Hu FB, De Vivo I. Mediterranean diet and telomere length in Nurses' Health Study: population based cohort study. BMJ. 2014 Dec 2;349:g6674. doi: 10.1136\/bmj.g6674. PubMed PMID: 25467028; PubMed Central PMCID: PMC4252824.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25467028\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/25467028<\/a><\/p>\n<p>Belsky DW, Caspi A, Houts R, Cohen HJ, Corcoran DL, Danese A, Harrington H,Israel S, Levine ME, Schaefer JD, Sugden K, Williams B, Yashin AI, Poulton R, Moffitt TE. Quantification of biological aging in young adults. Proc Natl Acad Sci U S A. 2015 Jul 28;112(30):E4104-10. doi: 10.1073\/pnas.1506264112. Epub 2015 Jul 6. PubMed PMID: 26150497; PubMed Central PMCID: PMC4522793.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/26150497\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/26150497<\/a><\/p>\n<p>Sen A, Marsche G, Freudenberger P, Schallert M, Toeglhofer AM, Nagl C, Schmidt R, Launer LJ, Schmidt H. Association between higher plasma lutein, zeaxanthin, and vitamin C concentrations and longer telomere length: results of the Austrian Stroke Prevention Study. J Am Geriatr Soc. 2014 Feb;62(2):222-9. doi:10.1111\/jgs.12644. Epub 2014 Jan 15. PubMed PMID: 24428184; PubMed Central PMCID: PMC4234001.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/24428184\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/24428184<\/a><\/p>\n<p>Valdes AM, Andrew T, Gardner JP, Kimura M, Oelsner E, Cherkas LF, Aviv A, Spector TD. Obesity, cigarette smoking, and telomere length in women. Lancet. 2005 Aug 20-26;366(9486):662-4. PubMed PMID: 16112303.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/16112303\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/16112303<\/a><\/p>\n<p>Bernardes de Jesus B, Schneeberger K, Vera E, Tejera A, Harley CB, Blasco MA. The telomerase activator TA-65 elongates short telomeres and increases health span of adult\/old mice without increasing cancer incidence. Aging Cell. 2011 Aug;10(4):604-21. doi: 10.1111\/j.1474-9726.2011.00700.x. Epub 2011 Apr 14. PubMed PMID: 21426483; PubMed Central PMCID: PMC3627294.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/21426483\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/21426483<\/a><\/p>\n<p>Richards JB, Valdes AM, Gardner JP, Paximadas D, Kimura M, Nessa A, Lu X, Surdulescu GL, Swaminathan R, Spector TD, Aviv A. Higher serum vitamin D concentrations are associated with longer leukocyte telomere length in women. Am J Clin Nutr. 2007 Nov;86(5):1420-5. PubMed PMID: 17991655; PubMed Central PMCID: PMC2196219.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/17991655\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/17991655<\/a><\/p>\n<p>&nbsp;<\/p>\n<p>Farzaneh-Far R, Lin J, Epel ES, Harris WS, Blackburn EH, Whooley MA. Association of marine omega-3 fatty acid levels with telomeric aging in patients with coronary heart disease. JAMA. 2010 Jan 20;303(3):250-7. Doi 10.1001\/jama.2009.2008. PubMed PMID: 20085953; PubMed Central PMCID: PMC2819264.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/20085953\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/20085953<\/a><\/p>\n<p>Why are there associations between telomere length and behaviour? M Bateson, D Nettle - Phil. Trans. R. Soc. B, 2018. Leucocyte telomere length and risk of cardiovascular disease: systematic review and meta-analysis PC Haycock, EE Heydon, S Kaptoge, AS Butterworth - BMJ, 2014.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5784059\/\">https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5784059\/<\/a><\/p>\n<p>Analysis of Telomere Length in Aging and Age-Related Illness. SM Connon, GP Einstein, OL Tulp - The FASEB Journal, 2017 Association of age, BMI and smoking habits with leukocyte telomere length dynamics. A.M&uuml;ezzinler 2015.<\/p>\n<p><a href=\"https:\/\/www.fasebj.org\/doi\/abs\/10.1096\/fasebj.31.1_supplement.935.2\">https:\/\/www.fasebj.org\/doi\/abs\/10.1096\/fasebj.31.1_supplement.935.2<\/a><\/p>\n<p>Diagnostic utility of telomere length testing in a hospital-based setting JK Alder, VS Hanumanthu, MA Strong. 2018 National Acad Sciences.<\/p>\n<p><a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/29463756\">https:\/\/www.ncbi.nlm.nih.gov\/pubmed\/29463756<\/a><\/p>\n<p>&nbsp;<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1574849110645-0",
+          "1574849610899",
+          "1574849110645-1",
+          "1574849110645-2"
+        ],
+        "settings": {
+          "subheading": "",
+          "title": ""
+        }
+      },
+      "page-template": {
+        "type": "page-template",
+        "settings": {
+          "show_page_title": false
+        }
+      },
+      "product-template_test": {
+        "type": "product-template_test",
+        "settings": {
+          "product_layout": "slideshow",
+          "image_gallery": "none",
+          "image_size": "large",
+          "add_cart_position": "bottom",
+          "show_vendor": false,
+          "show_quantity": false,
+          "show_cart_bar": false,
+          "show_newsletter": true,
+          "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+          "page_tab_1": "",
+          "page_tab_2": "",
+          "page_tab_3": "",
+          "product_slideshow_dots": true,
+          "product_slideshow_arrows": false
+        }
+      },
+      "faq-section__product_test": {
+        "type": "faq-section__product_test",
+        "blocks": {
+          "1577114294230": {
+            "type": "item",
+            "settings": {
+              "title": "¿Crees que es para ti?",
+              "answer": "<p>S&iacute;, si est&aacute;s interesado\/a en empezar tu Soluci&oacute;n Antiaging Personalizada en su modalidad Basic, con un tratamiento adaptado a las caracter&iacute;sticas de tu ADN.<\/p>"
+            }
+          },
+          "1577114297278": {
+            "type": "item",
+            "settings": {
+              "title": "¿Qué mide el test?",
+              "answer": "<p>El Test de ADN de tu EDAD REAL mide la longitud de los tel&oacute;meros.<br>Los tel&oacute;meros son los extremos de los cromosomas. Act&uacute;an como una especie de tapones que protegen las cadenas de ADN.<\/p>\n<p>Cada vez que una c&eacute;lula se divide, sus tel&oacute;meros se van acortando.<br>Cuando son demasiado cortos, la c&eacute;lula no puede dividirse m&aacute;s y acaba muriendo.<br>Esa es la raz&oacute;n por la que se puede considerar a los tel&oacute;meros como relojes biol&oacute;gicos y su longitud es una medida del nivel de envejecimiento de tus c&eacute;lulas.<\/p>\n<p>Tener tel&oacute;meros largos permite vivir m&aacute;s y retrasa la aparici&oacute;n de enfermedades.<\/p>\n<p>Hay multitud de estudios que relacionan un buen estilo de vida y el consumo de vitaminas y otros principios activos naturales con la longitud de los tel&oacute;meros.<\/p>"
+            }
+          },
+          "1577114302589": {
+            "type": "item",
+            "settings": {
+              "title": "Cómo tomar la muestra de ADN",
+              "answer": "<p>Recibir&aacute;s en casa el kit para la toma de muestra.<\/p>\n<p><\/p>\n<p>En el kit encontrar&aacute;s 2 tubos con algod&oacute;n con el que deber&aacute;s&nbsp;frotar el interior de las mejillas y as&iacute; extraer las c&eacute;lulas con las que hacer el an&aacute;lisis.<\/p>\n<p>Una vez tomada la muestra, deber&aacute;s enviarla al laboratorio en el sobre que te habremos enviado dentro de la caja.&nbsp;&nbsp;<\/p>\n<p><\/p>\n<p>Puedes ver las instrucciones completas haciendo clic <a href=\"\/pages\/instrucciones-toma-de-muestra-de-adn-1\" title=\"INSTRUCCIONES TOMA DE MUESTRA DE ADN\">aqu&iacute;<\/a>.&nbsp;<\/p>"
+            }
+          },
+          "1578412648681": {
+            "type": "item",
+            "settings": {
+              "title": "Tratamiento Anti-aging Basic",
+              "answer": "<p>Todos nuestros productos son de origen natural y sin gluten.<br>Nuestros proveedores cultivan la mayor parte de sus ingredientes en sus propias plantaciones para asegurar la calidad y sostenibilidad de todo el proceso.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1577114294230",
+          "1577114297278",
+          "1577114302589",
+          "1578412648681"
+        ],
+        "settings": {
+          "subheading": "",
+          "title": ""
+        }
+      },
+      "related-products_test": {
+        "type": "related-products_test",
+        "settings": {
+          "related_products_enable": true,
+          "limit": 4,
+          "product_recommendations_heading": "PRODUCTOS RELACIONADOS"
+        }
+      },
+      "1576232100937": {
+        "type": "newsletter",
+        "settings": {
+          "color": "#222",
+          "background": "#fff",
+          "title": "NEWSLETTER",
+          "content": "<p>Let's keep in touch<\/p>"
+        }
+      },
+      "product-template_premium": {
+        "type": "product-template_premium",
+        "settings": {
+          "product_layout": "slideshow",
+          "image_gallery": "none",
+          "image_size": "large",
+          "add_cart_position": "top",
+          "show_vendor": false,
+          "show_quantity": false,
+          "show_cart_bar": true,
+          "show_newsletter": false,
+          "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+          "page_tab_1": "",
+          "page_tab_2": "",
+          "page_tab_3": "",
+          "product_slideshow_dots": false,
+          "product_slideshow_arrows": false
+        }
+      },
+      "faq-section__product_premium": {
+        "type": "faq-section__product_premium",
+        "blocks": {
+          "1577114409296": {
+            "type": "item",
+            "settings": {
+              "title": "¿Crees que es para ti?",
+              "answer": "<p>S&iacute;, si est&aacute;s interesado\/a en empezar tu Soluci&oacute;n Antiaging Personalizada en su modalidad Premium, con un tratamiento totalmente dise&ntilde;ado a tu medida.&nbsp;&nbsp;<\/p>"
+            }
+          },
+          "1577114412930": {
+            "type": "item",
+            "settings": {
+              "title": "¿Qué mide el test?",
+              "answer": "<p>El Test de ADN de tu EDAD REAL mide la longitud de los tel&oacute;meros.<br>Los tel&oacute;meros son los extremos de los cromosomas. Act&uacute;an como una especie de tapones que protegen las cadenas de ADN.<br>Cada vez que una c&eacute;lula se divide, sus tel&oacute;meros se van acortando.<br>Cuando son demasiado cortos, la c&eacute;lula no puede dividirse m&aacute;s y acaba muriendo.<br>Los tel&oacute;meros son como relojes biol&oacute;gicos. Su longitud es una medida de tu nivel de envejecimiento.<br>Tener tel&oacute;meros largos permite vivir m&aacute;s y retrasa la aparici&oacute;n de enfermedades.<br>Hay multitud de estudios que relacionan un buen estilo de vida y el consumo de vitaminas y otros principios activos naturales con la longitud de los tel&oacute;meros.<\/p>"
+            }
+          },
+          "1577114414665": {
+            "type": "item",
+            "settings": {
+              "title": "Tratamiento Anti-aging Premium",
+              "answer": "<p>El doctor estudiar&aacute; tus resultados del test de ADN y te prescribir&aacute; un tratamiento Anti-Aging Premium, totalmente personalizado.<br>Tras la visita, podr&aacute;s acceder a tu receta en el &Aacute;rea Personal de nuestra web con tu usuario y contrase&ntilde;a.<br>Podr&aacute;s comprar tu tratamiento Anti-aging Premium en una de las Farmacias TAILORYOU o, si lo prefieres, puedes llevar la receta a tu farmacia de confianza para que te lo preparen.<\/p>\n<p><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1577114409296",
+          "1577114412930",
+          "1577114414665"
+        ],
+        "settings": {
+          "subheading": "",
+          "title": ""
+        }
+      },
+      "related-products_premium": {
+        "type": "related-products_premium",
+        "settings": {
+          "related_products_enable": true,
+          "limit": 4,
+          "product_recommendations_heading": "PRODUCTOS RELACIONADOS"
+        }
+      },
+      "1577099073170": {
+        "type": "rich-text",
+        "settings": {
+          "layout": "default",
+          "heading_align": "left",
+          "heading_font_size": 36,
+          "text_font_size": 18,
+          "subheading": "",
+          "title": "¿QUÉ HACEMOS?",
+          "content": "<p>En TAILORYOU cuidamos de tu bienestar, salud y belleza a trav&eacute;s de soluciones personalizadas basadas en el estudio de tu ADN. Este nos permite conocerte mejor y ofrecerte productos y tratamientos espec&iacute;ficamente dise&ntilde;ados para ti.&nbsp;&iquest;Quieres descubrir todo lo que ofrecemos?&nbsp;<\/p>",
+          "accent_line": "none",
+          "accent_line_color": "#333",
+          "cta": "",
+          "link": "",
+          "button_style": "primary",
+          "button_position": "left"
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "accent_line": "none",
+          "accent_line_color": "#333"
+        }
+      },
+      "sliderNuestraCiencia": {
+        "type": "sliderNuestraCiencia",
+        "blocks": {
+          "1577103169472": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Header_Fo_urmula_Red.jpg",
+              "image_mobile": "",
+              "image_position": "center-center",
+              "alignment": "center",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Nuestra  Fórmula",
+              "text": "<p>A trav&eacute;s de una muestra de tu ADN te ayudamos a descubrir c&oacute;mo eres y qu&eacute; necesitas para estar mejor.<\/p>",
+              "cta": "",
+              "link": "shopify:\/\/collections\/all",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 30,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          }
+        },
+        "block_order": [
+          "1577103169472"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "show_arrow_down": false,
+          "autoplay": true,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "sixty-fifty-height-hero"
+        }
+      },
+      "richtext-NuestraCiencia": {
+        "type": "richtext-NuestraCiencia",
+        "settings": {
+          "layout": "default",
+          "heading_align": "left",
+          "heading_font_size": 36,
+          "text_font_size": 18,
+          "subheading": "",
+          "title": "¿Qué hacemos?",
+          "content": "<p>Nuestro equipo cient&iacute;fico y m&eacute;dico dise&ntilde;a, a partir de un exhaustivo estudio de tu ADN, las mejores soluciones integrales pensadas para mejorar tu bienestar y calidad de vida.&nbsp;<\/p>\n<p><\/p>",
+          "accent_line": "none",
+          "accent_line_color": "#333",
+          "cta": "",
+          "link": "",
+          "button_style": "primary",
+          "button_position": "left"
+        }
+      },
+      "imagewithtext-NuestraCiencia": {
+        "type": "imagewithtext-NuestraCiencia",
+        "blocks": {
+          "1577103766699": {
+            "type": "gallery_image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/IMG_0900.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1577103766699"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "transition": "slide",
+          "autoplay": false,
+          "duration": 4,
+          "color_style": "black",
+          "show_margins": false,
+          "slide_height": "four-fifty-height-hero",
+          "slide_image_position": "left",
+          "slide_image_width": "med_s12|med_s12",
+          "subheading": "",
+          "title": "Metodología científica",
+          "content": "<p><\/p>\n<p>Nuestros test de ADN han sido creados por un equipo de expertos en biotecnolog&iacute;a y cada una de nuestras soluciones personalizadas dise&ntilde;adas por nuestros m&eacute;dicos conforme a los &uacute;ltimos avances recogidos en publicaciones cient&iacute;ficas reconocidas internacionalmente.<\/p>\n<p><\/p>",
+          "cta": "",
+          "link": "",
+          "button_style": "primary"
+        }
+      },
+      "slider-Antiaging": {
+        "type": "slider-Antiaging",
+        "blocks": {
+          "1577106611579": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Header_Solucio_un_antiage_Red_3dc2d1b6-8d30-4bd6-ab6a-08cffdfc1953.jpg",
+              "image_mobile": "",
+              "image_position": "center-center",
+              "alignment": "center",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Solución Anti-aging Personalizada",
+              "text": "<p>Conoce la edad real de tus c&eacute;lulas y encuentra la soluci&oacute;n anti-aging personalizada que mejor se adapta a tu ADN.&nbsp;&nbsp;<\/p>",
+              "cta": "EMPIEZA AHORA",
+              "link": "shopify:\/\/products\/test-adn-de-edad-real",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 30,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          }
+        },
+        "block_order": [
+          "1577106611579"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "show_arrow_down": false,
+          "autoplay": true,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "sixty-fifty-height-hero"
+        }
+      },
+      "richtext-Antiaging": {
+        "type": "richtext-Antiaging",
+        "settings": {
+          "layout": "default",
+          "heading_align": "left",
+          "heading_font_size": 36,
+          "text_font_size": 18,
+          "subheading": "",
+          "title": "¿Por qué una Solución Anti-aging Personalizada?",
+          "content": "<p>Porque quieres hacer todo lo posible para sentirte bien y mantener tu cuerpo m&aacute;s joven. Por ello, a trav&eacute;s del conocimiento de la edad real de tus c&eacute;lulas, te proponemos un tratamiento especialmente dise&ntilde;ado para ti con el objetivo de ralentizar su envejecimiento.&nbsp;<\/p>",
+          "accent_line": "none",
+          "accent_line_color": "#333",
+          "cta": "",
+          "link": "",
+          "button_style": "primary",
+          "button_position": "left"
+        }
+      },
+      "imagewithtext-Antiaging": {
+        "type": "imagewithtext-Antiaging",
+        "blocks": {
+          "1578999522496": {
+            "type": "gallery_image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/Solucio_unAntiage_Co_umo_funciona.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1578999522496"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "transition": "slide",
+          "autoplay": false,
+          "duration": 4,
+          "color_style": "black",
+          "show_margins": false,
+          "slide_height": "four-fifty-height-hero",
+          "slide_image_position": "left",
+          "slide_image_width": "med_s12|med_s12",
+          "subheading": "",
+          "title": "¿Cómo funciona?",
+          "content": "<p>Todo empieza con la compra de tu Test de ADN de Tu Edad Real. Recibir&aacute;s un kit en casa para que te tomes una muestra de ADN frotando el interior de tus mejillas con un bastoncillo de algod&oacute;n. Una vez nuestro laboratorio analice el grado de envejecimiento de tus c&eacute;lulas&nbsp;y estime&nbsp;Tu Edad Real, te propondremos un Tratamiento Anti-aging Personalizado.<\/p>",
+          "cta": "Solicita tu Test",
+          "link": "shopify:\/\/products\/test-adn-de-edad-real",
+          "button_style": "primary"
+        }
+      },
+      "faq-Antiaging": {
+        "type": "faq-Antiaging",
+        "blocks": {
+          "1577107285500": {
+            "type": "item",
+            "settings": {
+              "title": "¿Qué mide el test de ADN de Tu Edad Real?",
+              "answer": "<p>El Test de ADN de Tu Edad Real es una prueba gen&eacute;tica que mide la longitud de los tel&oacute;meros y estima la edad biol&oacute;gica de tus c&eacute;lulas.<\/p>\n<p><br>Los tel&oacute;meros son los extremos de los cromosomas y act&uacute;an como una especie de tapones que protegen las cadenas de ADN. Cada vez que una c&eacute;lula se divide, sus tel&oacute;meros se van acortando. Cuando son demasiado cortos, la c&eacute;lula no puede dividirse m&aacute;s y acaba muriendo. Por eso, los tel&oacute;meros son como relojes biol&oacute;gicos, y su longitud puede utilizarse para medir tu nivel de envejecimiento.<\/p>\n<p><br>Tener tel&oacute;meros largos permite vivir m&aacute;s y retrasa la aparici&oacute;n de enfermedades.<\/p>"
+            }
+          },
+          "1578395464180": {
+            "type": "item",
+            "settings": {
+              "title": "Tratamientos Anti-aging Personalizados",
+              "answer": "<p>El&nbsp;proceso de acortamiento de los tel&oacute;meros se puede revertir y, por lo tanto, frenar el envejecimiento celular.<\/p>\n<p><\/p>\n<p>Nuestros tratamientos anti-aging est&aacute;n basados en las numerosas investigaciones que relacionan el consumo de vitaminas y otros principios activos naturales con la longitud de los tel&oacute;meros.&nbsp;<\/p>\n<p><\/p>\n<p>Haz clic&nbsp;<a href=\"\/pages\/lista-de-estudios\" title=\"Lista de estudios tel&oacute;meros y envejecimiento\">aqu&iacute;&nbsp;<\/a>&nbsp;si quieres conocer algunos de estos estudios.<\/p>\n<p><\/p>\n<p><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1577107285500",
+          "1578395464180"
+        ],
+        "settings": {
+          "subheading": "",
+          "title": ""
+        }
+      },
+      "collection-Antiaging": {
+        "type": "collection-Antiaging",
+        "settings": {
+          "title": "",
+          "collection1": "solucion-anti-aging-celular",
+          "products_layout": "grid",
+          "button_style": "primary"
+        }
+      },
+      "video-Antiaging": {
+        "type": "video-Antiaging",
+        "settings": {
+          "title": "¿CÓMO FUNCIONA?",
+          "content": "<p>SOLUCI&Oacute;N ANTIAGING<\/p>\n<p>Describe in a few words your special products, collection, or brand&nbsp;<\/p>",
+          "video_url": "",
+          "logo": "",
+          "logo_max_width": 185,
+          "heading_size": "normal",
+          "text_size": "normal",
+          "image": "shopify:\/\/shop_images\/Slider_Taylor2.001.jpeg",
+          "image_height": "five-fifty-height-hero",
+          "style": "light",
+          "overlay_color": "#2e3234",
+          "overlay_opacity": 5
+        }
+      },
+      "about-template": {
+        "type": "about-template",
+        "settings": {
+          "show_page_title": false
+        }
+      },
+      "slider-Wellbeing": {
+        "type": "slider-Wellbeing",
+        "blocks": {
+          "1577115990536": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Header_Solucio_un_wellbeing.jpg",
+              "image_mobile": "",
+              "image_position": "center-center",
+              "alignment": "center",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Well-being solutions",
+              "text": "<p>Existe una mejor versi&oacute;n de ti<\/p>\n<p>pero, &iquest;sabes c&oacute;mo alcanzarla?<\/p>",
+              "cta": "",
+              "link": "shopify:\/\/collections\/all",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 30,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          }
+        },
+        "block_order": [
+          "1577115990536"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "show_arrow_down": false,
+          "autoplay": true,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "sixty-fifty-height-hero"
+        }
+      },
+      "richtext-Wellbeing": {
+        "type": "richtext-Wellbeing",
+        "settings": {
+          "layout": "default",
+          "heading_align": "left",
+          "heading_font_size": 28,
+          "text_font_size": 16,
+          "subheading": "",
+          "title": "Soluciones personalizadas",
+          "content": "<p>En TAILORYOU queremos acompa&ntilde;arte en el camino para ser tu mejor t&uacute;. &iquest;C&oacute;mo?<\/p>\n<p>D&eacute;janos descubrir, a trav&eacute;s del an&aacute;lisis de tu ADN, el tratamiento que mejor se adapta a tus necesidades.&nbsp;<\/p>",
+          "accent_line": "none",
+          "accent_line_color": "#333",
+          "cta": "",
+          "link": "",
+          "button_style": "primary",
+          "button_position": "left"
+        }
+      },
+      "collectionlist-Wellbeing": {
+        "type": "collectionlist-Wellbeing",
+        "blocks": {
+          "1578658541700": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Header_Solucio_un_Nutricio_un.jpg",
+              "link": "shopify:\/\/pages\/nutricional"
+            }
+          },
+          "1578658583999": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Header_Solucio_un_anticai_uda.jpg",
+              "link": "shopify:\/\/pages\/capilar"
+            }
+          }
+        },
+        "block_order": [
+          "1578658541700",
+          "1578658583999"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Header_Solucio_un_antiage_Red_3dc2d1b6-8d30-4bd6-ab6a-08cffdfc1953.jpg",
+          "image_text": "SOLUCIÓN ANTIAGING PERSONALIZADA",
+          "image_link": "shopify:\/\/pages\/anti-aging-1",
+          "hide_image_mobile": false,
+          "blocks_height": "full-height",
+          "blocks_layout": "offset",
+          "arrows_color": "white"
+        }
+      },
+      "slider-Nutricional": {
+        "type": "slider-Nutricional",
+        "blocks": {
+          "1577183180060": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Header_Solucio_un_Nutricio_un.jpg",
+              "image_mobile": "",
+              "image_position": "center-center",
+              "alignment": "center",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Solución Nutricional Personalizada",
+              "text": "<p>Define tu alimentaci&oacute;n seg&uacute;n tu gen&eacute;tica y empieza a mejorar tu bienestar.<\/p>",
+              "cta": "",
+              "link": "",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 30,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          }
+        },
+        "block_order": [
+          "1577183180060"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "show_arrow_down": false,
+          "autoplay": true,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "sixty-fifty-height-hero"
+        }
+      },
+      "richtext-Nutricional": {
+        "type": "richtext-Nutricional",
+        "settings": {
+          "layout": "default",
+          "heading_align": "left",
+          "heading_font_size": 36,
+          "text_font_size": 18,
+          "subheading": "",
+          "title": "¿Por qué una Solución Nutricional Personalizada?",
+          "content": "<p>Porque quieres comer de forma saludable y no sabes qu&eacute; alimentos le convienen a tu organismo. O porque simplemente quieres perder peso y no sabes c&oacute;mo. A trav&eacute;s de nuestro test gen&eacute;tico estudiaremos las diferentes reacciones de tu cuerpo, sus factores gen&eacute;ticos y otras caracter&iacute;sticas relevantes para dise&ntilde;ar un plan de alimentaci&oacute;n &oacute;ptimo o un plan p&eacute;rdida de peso adaptado a tu organismo.<\/p>",
+          "accent_line": "none",
+          "accent_line_color": "#333",
+          "cta": "DISPONIBLE PRÓXIMAMENTE",
+          "link": "",
+          "button_style": "primary",
+          "button_position": "center"
+        }
+      },
+      "faq-Nutricional": {
+        "type": "faq-Nutricional",
+        "blocks": {
+          "1577183244277": {
+            "type": "item",
+            "settings": {
+              "title": "¿Por qué una Solución Nutricional personalizada?",
+              "answer": "<p>Porque quieres comer de forma saludable y no sabes qu&eacute; alimentos le convienen a tu organismo. O porque simplemente quieres perder peso y no sabes c&oacute;mo. A trav&eacute;s de nuestro test gen&eacute;tico estudiaremos las diferentes reacciones de tu cuerpo, sus factores gen&eacute;ticos y otras caracter&iacute;sticas relevantes para dise&ntilde;ar un plan de alimentaci&oacute;n &oacute;ptimo o un plan p&eacute;rdida de peso adaptado a tu organismo.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1577183244277"
+        ],
+        "settings": {
+          "subheading": "",
+          "title": ""
+        }
+      },
+      "video-Nutricional": {
+        "type": "video-Nutricional",
+        "settings": {
+          "title": "Featured video",
+          "content": "<p>Describe in a few words your special products, collection, or brand.<\/p>",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+          "logo": "",
+          "logo_max_width": 100,
+          "heading_size": "large",
+          "text_size": "normal",
+          "image": "",
+          "image_height": "five-fifty-height-hero",
+          "style": "light",
+          "overlay_color": "#333",
+          "overlay_opacity": 30
+        }
+      },
+      "collection-Nutricional": {
+        "type": "collection-Nutricional",
+        "settings": {
+          "title": "",
+          "collection1": "",
+          "products_layout": "grid",
+          "button_style": "primary"
+        }
+      },
+      "slider-Capilar": {
+        "type": "slider-Capilar",
+        "blocks": {
+          "1577183404412": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Header_Solucio_un_anticai_uda.jpg",
+              "image_mobile": "",
+              "image_position": "center-center",
+              "alignment": "center",
+              "content_width": "one-half",
+              "color_style": "white",
+              "subheading": "",
+              "title": "Solución Anticaída Personalizada",
+              "text": "<p>Combate la alopecia con un tratamiento dise&ntilde;ado solo para ti.&nbsp;&nbsp;<\/p>",
+              "cta": "",
+              "link": "",
+              "cta_2": "",
+              "link_2": "",
+              "heading_size": "large",
+              "text_size": "normal",
+              "overlay_color": "#333",
+              "overlay_opacity": 30,
+              "button_size": "normal",
+              "cta_primary_btn_style": "primary",
+              "cta_secondary_btn_style": "light"
+            }
+          }
+        },
+        "block_order": [
+          "1577183404412"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "show_arrow_down": false,
+          "autoplay": true,
+          "duration": 4,
+          "transition": "slide",
+          "dots_position": "center",
+          "slide_height": "sixty-fifty-height-hero"
+        }
+      },
+      "richtext-Capilar": {
+        "type": "richtext-Capilar",
+        "settings": {
+          "layout": "default",
+          "heading_align": "left",
+          "heading_font_size": 36,
+          "text_font_size": 18,
+          "subheading": "",
+          "title": "¿Por qué una Solución Anticaída Personalizada?",
+          "content": "<p>Porque sufres con la ca&iacute;da de cabello y no encuentras la soluci&oacute;n para combatirla. Nuestro test de ADN analiza tu gen&eacute;tica, tu estilo de vida y su relaci&oacute;n con la alopecia para ofrecerte un efectivo tratamiento antica&iacute;da hecho a tu medida.<\/p>",
+          "accent_line": "none",
+          "accent_line_color": "#333",
+          "cta": "DISPONIBLE PRÓXIMAMENTE",
+          "link": "",
+          "button_style": "primary",
+          "button_position": "center"
+        }
+      },
+      "faq-Capilar": {
+        "type": "faq-Capilar",
+        "blocks": {
+          "1577183437354": {
+            "type": "item",
+            "settings": {
+              "title": "¿Por qué una Solución Anticaída Personalizada?",
+              "answer": "<p>Porque sufres con la ca&iacute;da de cabello y no encuentras la soluci&oacute;n para combatirla. Nuestro test de ADN analiza tu gen&eacute;tica, tu estilo de vida y su relaci&oacute;n con la alopecia para ofrecerte un efectivo tratamiento antica&iacute;da hecho a tu medida. <\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1577183437354"
+        ],
+        "settings": {
+          "subheading": "",
+          "title": ""
+        }
+      },
+      "video-Capilar": {
+        "type": "video-Capilar",
+        "settings": {
+          "title": "Featured video",
+          "content": "<p>Describe in a few words your special products, collection, or brand.<\/p>",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+          "logo": "",
+          "logo_max_width": 100,
+          "heading_size": "large",
+          "text_size": "normal",
+          "image": "",
+          "image_height": "five-fifty-height-hero",
+          "style": "light",
+          "overlay_color": "#333",
+          "overlay_opacity": 30
+        }
+      },
+      "collection-Capilar": {
+        "type": "collection-Capilar",
+        "settings": {
+          "title": "",
+          "collection1": "",
+          "products_layout": "grid",
+          "button_style": "primary"
+        }
+      },
+      "imagewithtext-NuestraCiencia2": {
+        "type": "imagewithtext-NuestraCiencia2",
+        "blocks": {
+          "1578481718617": {
+            "type": "gallery_image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/IMG_0810.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1578481718617"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "transition": "slide",
+          "autoplay": false,
+          "duration": 4,
+          "color_style": "black",
+          "show_margins": true,
+          "slide_height": "four-fifty-height-hero",
+          "slide_image_position": "left",
+          "slide_image_width": "med_s12|med_s12",
+          "subheading": "",
+          "title": "Tecnología personalizada",
+          "content": "<p><\/p>\n<p>Como todos nuestros tests han sido dise&ntilde;ados y validados exclusivamente para tus necesidades, no&nbsp; utilizamos chips de ADN est&aacute;ndar.&nbsp;<\/p>\n<p><\/p>\n<p>Nuestros laboratorios cumplen con la normativa FDA y cuentan con los mejores equipos de an&aacute;lisis para ofrecerte tus resultados con la mayor precisi&oacute;n gracias a sus controles de alta calidad.<\/p>",
+          "cta": "",
+          "link": "",
+          "button_style": "primary"
+        }
+      },
+      "imagewithtext-NuestraCiencia3": {
+        "type": "imagewithtext-NuestraCiencia3",
+        "blocks": {
+          "1578481752907": {
+            "type": "gallery_image",
+            "settings": {
+              "slide": "shopify:\/\/shop_images\/IMG_6055.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1578481752907"
+        ],
+        "settings": {
+          "showNavDots": true,
+          "showNavArrows": false,
+          "transition": "slide",
+          "autoplay": false,
+          "duration": 4,
+          "color_style": "black",
+          "show_margins": true,
+          "slide_height": "four-fifty-height-hero",
+          "slide_image_position": "left",
+          "slide_image_width": "med_s12|med_s12",
+          "subheading": "",
+          "title": "Tu información, siempre en buenas manos",
+          "content": "<p><\/p>\n<p>La transparencia es uno de nuestros valores de empresa. Por ello, nunca deber&aacute;s preocuparte por la seguridad y privacidad de tus datos. Nuestros procesos cumplen la normativa GDPR y nuestros servidores cuentan con los mejores protocolos de seguridad para prevenir la corrupci&oacute;n de datos y la pirater&iacute;a inform&aacute;tica.<\/p>\n<p>No venderemos tu ADN a otras empresas. Tu informaci&oacute;n se utiliza exclusivamente para determinar los mejores tratamientos para ti.&nbsp;<\/p>",
+          "cta": "",
+          "link": "",
+          "button_style": "primary"
+        }
+      },
+      "newsletternutricional": {
+        "type": "newsletternutricional",
+        "settings": {
+          "color": "#222",
+          "background": "#fff",
+          "title": "Newsletter",
+          "content": "<p>Let's keep in touch<\/p>"
+        }
+      },
+      "newslettercapilar": {
+        "type": "newslettercapilar",
+        "settings": {
+          "color": "#222",
+          "background": "#fff",
+          "title": "Newsletter",
+          "content": "<p>Let's keep in touch<\/p>"
+        }
+      },
+      "icons-row-Antiaging": {
+        "type": "icons-row-Antiaging",
+        "blocks": {
+          "1579083382137": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/1_43fb1c53-4c4c-41e1-a300-81bcbdbf67d6.jpg",
+              "title": "Compra",
+              "content": "Compra el test de ADN de Tu Edad Real en nuestra página web"
+            }
+          },
+          "1579083388335": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/2_ce137786-b811-4a7b-9adc-b402e0ead7a0.jpg",
+              "title": "Recibe tu kit",
+              "content": "Recibe tu kit de toma de muestra de ADN en tu casa o donde prefieras (envío gratis)"
+            }
+          },
+          "1579083403784": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/3.jpg",
+              "title": "Registro",
+              "content": "Entra en el Área Personal de nuestra web con tu usuario y contraseña, registra tu kit y rellena el cuestionario"
+            }
+          },
+          "1579083417160": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/4.jpg",
+              "title": "Toma de muestra",
+              "content": "Frota un par de bastoncillos de algodón por el interior de tus mejillas y envíalos a nuestro laboratorio (envío gratis)"
+            }
+          },
+          "1579083431516": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/5.jpg",
+              "title": "Resultados",
+              "content": "En pocas semanas tus resultados estarán disponibles en el Área personal de nuestra web con tu usuario y contraseña"
+            }
+          },
+          "1579083445216": {
+            "type": "text",
+            "settings": {
+              "icon_name": "shop",
+              "icon_image": "shopify:\/\/shop_images\/6.jpg",
+              "title": "Tratamiento",
+              "content": "Decide qué tipo de tratamiento prefieres (Basic o Premium) y empieza a rejuvenecer tus células"
+            }
+          }
+        },
+        "block_order": [
+          "1579083382137",
+          "1579083388335",
+          "1579083403784",
+          "1579083417160",
+          "1579083431516",
+          "1579083445216"
+        ],
+        "settings": {
+          "color_icons_bg": "#ffffff",
+          "color_icons_text": "#333"
+        }
+      }
+    },
+    "content_for_index": [
+      "1498737500673",
+      "1577099073170",
+      "1574693744557",
+      "1574848678860",
+      "1574849110645",
+      "1532039050804",
+      "1532039110708",
+      "1532039151588",
+      "1576232100937"
+    ]
+  },
+  "presets": {
+    "Mayfair": {
+      "color_heading_new": "#000000",
+      "color_text_new": "#000000",
+      "color_primary_new": "#000000",
+      "color_secondary_new": "#000000",
+      "color_border_new": "#e4e4e4",
+      "color_background_new": "#ffffff",
+      "color_button_bg": "#000000",
+      "color_button_text": "#ffffff",
+      "color_top_bar": "#ffffff",
+      "color_top_bar_text": "#000000",
+      "color_header_bg_home": "rgba(0,0,0,0)",
+      "color_header_text_home": "#fff",
+      "color_header_bg": "rgba(0,0,0,0)",
+      "color_header_text": "#000000",
+      "color_header_bg_scroll": "#fff",
+      "color_header_text_scroll": "#000000",
+      "color_dropdown_bg": "#fff",
+      "color_dropdown_text": "#000000",
+      "drawer_bg_color": "#fff",
+      "drawer_text_color": "#000",
+      "header_icon_color_home": "#000000",
+      "header_bg_color_home": "#ffffff",
+      "header_icon_color": "#000000",
+      "header_bg_color": "#ffffff",
+      "color_badge_text": "#ffffff",
+      "color_badge_bg": "#2e3234",
+      "color_footer_text": "#000000",
+      "color_footer_bg": "#ffffff",
+      "color_bottom_bar_bg": "#fafafa",
+      "header_font_picker": "playfair_display_n9",
+      "base_font_size": 12,
+      "heading_letter_spacing": 0,
+      "general_font_picker": "work_sans_n4",
+      "body_font_size": 14,
+      "body_letter_spacing": 0,
+      "enable_cart_order_notes": false,
+      "show_custom_cursor": false,
+      "enable_payment_button": true,
+      "custom_cursor_image": "",
+      "show_breadcrumbs": true,
+      "favicon": "",
+      "twitter_url": "",
+      "facebook_url": "",
+      "pinterest_url": "",
+      "instagram_url": "",
+      "tumblr_url": "",
+      "youtube_url": "",
+      "rss_url": "",
+      "share_on_twitter": true,
+      "share_on_facebook": true,
+      "share_on_pinterest": true,
+      "show_multiple_currencies": false,
+      "currency_format": "money_with_currency_format",
+      "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+      "default_currency": "USD",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "color_overlay_bg": "#000",
+      "color_seconsdary_new": "#2e3234",
+      "promo_banner_style": "primary",
+      "promo_url_enabled": false,
+      "logo_enabled": true,
+      "browse_by_tag_enabled": true,
+      "collection_collectionGrid_columns": "3",
+      "nav_bg_color": "#f4f4f4",
+      "nav_text_color": "#222222",
+      "twitter_via": "",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_other": "",
+            "logo_max_width": 100,
+            "show_site_name": true,
+            "show_account_icon": true,
+            "menu_list": "main-menu",
+            "nav_layout": "standard",
+            "links_position": "links_center",
+            "logo_position": "logo_left",
+            "meganav_image": "",
+            "meganav_image_heading": "",
+            "meganav_image_link": "",
+            "show_announcement": true,
+            "show_announcement_on_mobile": true,
+            "text": "<p>Broadcast sales, promos, or other offerings here<\/p>",
+            "link": ""
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "show_title": true,
+            "show_filter": true,
+            "show_sort_filter": true,
+            "show_banner": true,
+            "banner_height": "normal",
+            "banner_subheading": "",
+            "banner_text_position": "bottom-left",
+            "heading_size": "normal",
+            "text_size": "normal",
+            "banner_color_text": "#ffffff",
+            "banner_color_overlay": "#222222",
+            "banner_overlay_opacity": 10,
+            "featured": "none",
+            "featured_image": "",
+            "featured_heading": "Use this image showcase promotional content.",
+            "featured_text": "<p>Elaborate on it with rich text<\/p>",
+            "featured_button_text": "Learn More",
+            "featured_button_link": "",
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#222222",
+            "featured_overlay_opacity": 10
+          }
+        },
+        "1498737500673": {
+          "type": "slideshow",
+          "blocks": {
+            "1498737500673-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "bottom-left",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            },
+            "1498737500673-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "bottom-left",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_2": "Shop Now",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            }
+          },
+          "block_order": [
+            "1498737500673-0",
+            "1498737500673-1"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "zoom-out",
+            "dots_position": "center",
+            "slide_height": "one-hundred-height-hero"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "product_layout": "slideshow",
+            "image_gallery": "zoom",
+            "image_size": "large",
+            "show_vendor": false,
+            "show_quantity": true,
+            "show_cart_bar": true,
+            "show_newsletter": true,
+            "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+            "page_tab_1": "",
+            "page_tab_2": "",
+            "page_tab_3": "",
+            "product_slideshow_dots": false,
+            "product_slideshow_arrows": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1528202806381": {
+              "type": "logo",
+              "settings": {
+                "logo": "",
+                "logo_width": 150,
+                "mobile_hide_block": false
+              }
+            },
+            "1528202808725": {
+              "type": "menu",
+              "settings": {
+                "mobile_hide_block": true
+              }
+            }
+          },
+          "block_order": [
+            "1528202806381",
+            "1528202808725"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {
+            "show_popup": "disabled",
+            "show_popup_newsletter": true,
+            "popup_delay": 5,
+            "popup_reappear_time": "7",
+            "popup_image": ""
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "color": "#222",
+            "background": "#fff",
+            "title": "Newsletter",
+            "content": "<p>Let's keep in touch<\/p>"
+          }
+        },
+        "product-features": {
+          "type": "product-features",
+          "blocks": {
+            "1528250359730": {
+              "type": "text",
+              "settings": {
+                "heading": "This is a heading for a Product feature block.",
+                "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+                "image": "",
+                "image_link": "",
+                "button_text": "",
+                "button_link": ""
+              }
+            },
+            "1528250384489": {
+              "type": "text",
+              "settings": {
+                "heading": "This is a heading for a Product feature block.",
+                "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+                "image": "",
+                "image_link": "",
+                "button_text": "",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1528250359730",
+            "1528250384489"
+          ],
+          "settings": {
+            "blocks_alignment": "center"
+          }
+        },
+        "rich-text": {
+          "type": "rich-text",
+          "settings": {
+            "layout": "default",
+            "title": "",
+            "content": "",
+            "cta": "",
+            "link": ""
+          }
+        },
+        "icons-row": {
+          "type": "icons-row",
+          "blocks": {
+            "1528250366509": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1528250367690": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1528250369041": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            }
+          },
+          "block_order": [
+            "1528250366509",
+            "1528250367690",
+            "1528250369041"
+          ],
+          "settings": {
+            "color_icons_bg": "#fafafa",
+            "color_icons_text": "#333"
+          }
+        },
+        "1532038945687": {
+          "type": "rich-text",
+          "settings": {
+            "layout": "split",
+            "title": "Describe your products or brand in detail here",
+            "content": "<p>Modular is a powerful Shopify theme that will set you apart from the rest. It features ample space to showcase your imagery with Mosaic, Image with text, and Slideshow sections.<\/p>",
+            "cta": "",
+            "link": ""
+          }
+        },
+        "1532038978596": {
+          "type": "collection-list",
+          "blocks": {
+            "1532038978596-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "Add a small note here",
+                "button_text": "View Products"
+              }
+            },
+            "1532038978596-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "",
+                "button_text": "View Products"
+              }
+            },
+            "1532038978596-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "",
+                "button_text": "View Products"
+              }
+            },
+            "1532038978596-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "Add a small note here",
+                "button_text": "View Products"
+              }
+            },
+            "1532038978596-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "Add a small note here",
+                "button_text": "View Products"
+              }
+            }
+          },
+          "block_order": [
+            "1532038978596-0",
+            "1532038978596-1",
+            "1532038978596-2",
+            "1532038978596-3",
+            "1532038978596-4"
+          ],
+          "settings": {
+            "title": "",
+            "subtitle": "",
+            "coll_text_position": "center",
+            "show_description": true,
+            "blocks_height": "default-height",
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 30
+          }
+        },
+        "1532039018217": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "",
+            "collection1": "frontpage"
+          }
+        },
+        "1532039029252": {
+          "type": "mosaic",
+          "blocks": {
+            "1532039029252-0": {
+              "type": "text",
+              "settings": {
+                "title": "Featured collection",
+                "subheading": "Best Seller",
+                "text": "Showcase a two of your best products, video, a collection, or text with the blocks in this section.",
+                "button_label": "Shop now",
+                "button_link": ""
+              }
+            },
+            "1532039029252-1": {
+              "type": "product",
+              "settings": {
+                "product": ""
+              }
+            },
+            "1532039029252-2": {
+              "type": "product",
+              "settings": {
+                "product": ""
+              }
+            }
+          },
+          "block_order": [
+            "1532039029252-0",
+            "1532039029252-1",
+            "1532039029252-2"
+          ],
+          "settings": {
+            "image": "",
+            "image_text": "",
+            "image_link": "",
+            "hide_image_mobile": false,
+            "blocks_layout": "offset",
+            "arrows_color": "white"
+          }
+        },
+        "1532039050804": {
+          "type": "testimonials",
+          "blocks": {
+            "1532039050804-0": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "1532039050804-1": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "1532039050804-2": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            }
+          },
+          "block_order": [
+            "1532039050804-0",
+            "1532039050804-1",
+            "1532039050804-2"
+          ],
+          "settings": {
+            "title": "Testimonials",
+            "title_position": "left",
+            "blocks_text_align": "justify",
+            "hide_quotes": false,
+            "accent_line": "curved",
+            "accent_line_color": "#333333"
+          }
+        },
+        "1532039073433": {
+          "type": "image-with-text",
+          "blocks": {
+            "1532039073433-0": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "1532039073433-1": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "1532039073433-2": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            }
+          },
+          "block_order": [
+            "1532039073433-0",
+            "1532039073433-1",
+            "1532039073433-2"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "autoplay": true,
+            "duration": 4,
+            "color_style": "black",
+            "show_margins": false,
+            "slide_height": "five-fifty-height-hero",
+            "slide_image_position": "left",
+            "slide_image_width": "med_s34|med_s14",
+            "subheading": "Humble Beginnings",
+            "title": "Tell a Story",
+            "content": "<p>By showcasing a product, collection, or your brand.<\/p>",
+            "cta": "",
+            "link": ""
+          }
+        },
+        "1532039110708": {
+          "type": "featured-blog",
+          "settings": {
+            "blogName": "news",
+            "heading": "",
+            "text": "",
+            "cta": "",
+            "tags": true,
+            "author": true,
+            "article_rows": 1,
+            "article_columns": 4
+          }
+        },
+        "1532039127139": {
+          "type": "map",
+          "settings": {
+            "api_key": "",
+            "map_address": "5 Rue Saint-Jacques, Paris, France 75005",
+            "map_height": "five-fifty-height-hero",
+            "location_title": "Modular",
+            "location_subheading": "Come visit our store",
+            "address": "566 Emerson Street\nPalo Alto, California",
+            "hours": "Mon - Fri, 8am - 11pm\nSaturday, 8am - 12pm\nSunday, 9am - 11pm",
+            "card_color": "#fff",
+            "style": "retro",
+            "zoom": 12,
+            "background_image": ""
+          }
+        },
+        "1532039151588": {
+          "type": "instagram",
+          "settings": {
+            "instaToken": "",
+            "rows": 2,
+            "title": "Instagram",
+            "cta": "Follow Us",
+            "link": ""
+          }
+        },
+        "list-collections-page-template": {
+          "type": "list-collections-page-template",
+          "settings": {
+            "show_description": true,
+            "collections_columns": 2,
+            "coll_text_position": "center",
+            "button_text": "View Products",
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 10
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "show_blog_name": false,
+            "show_rss": false,
+            "show_featured_post": true,
+            "tags": true,
+            "author": true,
+            "show_comments": true,
+            "article_rows": 4,
+            "article_columns": 4,
+            "accent_line": "curved",
+            "accent_line_color": "#333"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "1532039480983": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Shop Now",
+                "link": "shopify:\/\/collections\/all",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            },
+            "1532039484050": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Shop Now",
+                "link": "shopify:\/\/collections\/all",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            }
+          },
+          "block_order": [
+            "1532039480983",
+            "1532039484050"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "slide",
+            "dots_position": "center",
+            "slide_height": "one-hundred-height-hero"
+          }
+        }
+      },
+      "content_for_index": [
+        "1498737500673",
+        "1532038945687",
+        "1532038978596",
+        "1532039018217",
+        "1532039029252",
+        "1532039050804",
+        "1532039073433",
+        "1532039127139",
+        "1532039110708",
+        "1532039151588"
+      ]
+    },
+    "Chelsea": {
+      "color_heading_new": "#000000",
+      "color_text_new": "#000000",
+      "color_primary_new": "#c8e7f6",
+      "color_secondary_new": "#000000",
+      "color_border_new": "#e4e4e4",
+      "color_background_new": "#ffffff",
+      "color_button_bg": "#c8e7f6",
+      "color_button_text": "#000000",
+      "color_top_bar": "#c8e7f6",
+      "color_top_bar_text": "#000000",
+      "color_header_bg_home": "rgba(0,0,0,0)",
+      "color_header_text_home": "#fff",
+      "color_header_bg": "rgba(0,0,0,0)",
+      "color_header_text": "#000000",
+      "color_header_bg_scroll": "#fff",
+      "color_header_text_scroll": "#000000",
+      "color_dropdown_bg": "#fff",
+      "color_dropdown_text": "#000000",
+      "drawer_bg_color": "#fff",
+      "drawer_text_color": "#000",
+      "header_icon_color_home": "#000000",
+      "header_bg_color_home": "#ffffff",
+      "header_icon_color": "#000000",
+      "header_bg_color": "#ffffff",
+      "color_badge_text": "#000000",
+      "color_badge_bg": "#c8e7f6",
+      "color_footer_text": "#000000",
+      "color_footer_bg": "#ffffff",
+      "color_bottom_bar_bg": "#fafafa",
+      "header_font_picker": "nunito_n4",
+      "base_font_size": 12,
+      "heading_letter_spacing": 0,
+      "general_font_picker": "nunito_sans_n4",
+      "body_font_size": 14,
+      "body_letter_spacing": 0,
+      "enable_cart_order_notes": false,
+      "show_custom_cursor": false,
+      "enable_payment_button": true,
+      "custom_cursor_image": "",
+      "show_breadcrumbs": true,
+      "favicon": "",
+      "twitter_url": "",
+      "facebook_url": "",
+      "pinterest_url": "",
+      "instagram_url": "",
+      "tumblr_url": "",
+      "youtube_url": "",
+      "rss_url": "",
+      "share_on_twitter": true,
+      "share_on_facebook": true,
+      "share_on_pinterest": true,
+      "show_multiple_currencies": false,
+      "currency_format": "money_with_currency_format",
+      "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+      "default_currency": "USD",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "color_overlay_bg": "#000",
+      "promo_url": "",
+      "promo_banner_style": "primary",
+      "logo_enabled": true,
+      "promo_url_enabled": false,
+      "browse_by_tag_enabled": false,
+      "collection_collectionGrid_columns": "3",
+      "nav_bg_color": "#f4f4f4",
+      "nav_text_color": "#222222",
+      "twitter_via": "",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_other": "",
+            "logo_max_width": 100,
+            "show_site_name": true,
+            "show_account_icon": true,
+            "menu_list": "main-menu",
+            "nav_layout": "standard",
+            "links_position": "links_right",
+            "logo_position": "logo_left",
+            "meganav_image": "",
+            "meganav_image_heading": "",
+            "meganav_image_link": "",
+            "show_announcement": true,
+            "show_announcement_on_mobile": true,
+            "text": "<p>Broadcast sales, promos, or other offerings here<\/p>",
+            "link": ""
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "show_title": true,
+            "show_filter": true,
+            "show_sort_filter": true,
+            "show_banner": true,
+            "banner_height": "normal",
+            "banner_subheading": "",
+            "banner_text_position": "center",
+            "heading_size": "normal",
+            "text_size": "normal",
+            "banner_color_text": "#ffffff",
+            "banner_color_overlay": "#222222",
+            "banner_overlay_opacity": 10,
+            "featured": "none",
+            "featured_image": "",
+            "featured_heading": "Use this image showcase promotional content.",
+            "featured_text": "<p>Elaborate on it with rich text<\/p>",
+            "featured_button_text": "Learn More",
+            "featured_button_link": "",
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#222222",
+            "featured_overlay_opacity": 10
+          }
+        },
+        "1498737500673": {
+          "type": "slideshow",
+          "blocks": {
+            "1498737500673-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "bottom-left",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "xlarge",
+                "text_size": "large",
+                "overlay_color": "#333333",
+                "overlay_opacity": 30,
+                "button_size": "large"
+              }
+            },
+            "1498737500673-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "bottom-left",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "xlarge",
+                "text_size": "large",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "large"
+              }
+            }
+          },
+          "block_order": [
+            "1498737500673-0",
+            "1498737500673-1"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "slide",
+            "dots_position": "center",
+            "slide_height": "one-hundred-height-hero"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "product_layout": "slideshow",
+            "image_gallery": "lightbox",
+            "image_size": "large",
+            "show_vendor": true,
+            "show_quantity": false,
+            "show_cart_bar": true,
+            "show_newsletter": true,
+            "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+            "page_tab_1": "",
+            "page_tab_2": "",
+            "page_tab_3": "",
+            "product_slideshow_dots": false,
+            "product_slideshow_arrows": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1528202806381": {
+              "type": "logo",
+              "settings": {
+                "logo": "",
+                "logo_width": 150,
+                "mobile_hide_block": false
+              }
+            },
+            "1528202808725": {
+              "type": "menu",
+              "settings": {
+                "mobile_hide_block": true
+              }
+            }
+          },
+          "block_order": [
+            "1528202806381",
+            "1528202808725"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {
+            "show_popup": "disabled",
+            "show_popup_newsletter": true,
+            "popup_delay": 5,
+            "popup_reappear_time": "7",
+            "popup_image": ""
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "color": "#222",
+            "background": "#fff",
+            "title": "Newsletter",
+            "content": "<p>Let's keep in touch<\/p>"
+          }
+        },
+        "product-features": {
+          "type": "product-features",
+          "blocks": {
+            "1528250359730": {
+              "type": "text",
+              "settings": {
+                "heading": "This is a heading for a Product feature block.",
+                "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+                "image": "",
+                "image_link": "",
+                "button_text": "",
+                "button_link": ""
+              }
+            },
+            "1528250384489": {
+              "type": "text",
+              "settings": {
+                "heading": "This is a heading for a Product feature block.",
+                "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+                "image": "",
+                "image_link": "",
+                "button_text": "",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1528250359730",
+            "1528250384489"
+          ],
+          "settings": {
+            "blocks_alignment": "center"
+          }
+        },
+        "rich-text": {
+          "type": "rich-text",
+          "settings": {
+            "layout": "default",
+            "title": "",
+            "content": "",
+            "cta": "",
+            "link": ""
+          }
+        },
+        "icons-row": {
+          "type": "icons-row",
+          "blocks": {
+            "1528250366509": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1528250367690": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1528250369041": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            }
+          },
+          "block_order": [
+            "1528250366509",
+            "1528250367690",
+            "1528250369041"
+          ],
+          "settings": {
+            "color_icons_bg": "#fafafa",
+            "color_icons_text": "#333"
+          }
+        },
+        "1532039018217": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "",
+            "collection1": "frontpage"
+          }
+        },
+        "1532039050804": {
+          "type": "testimonials",
+          "blocks": {
+            "1532039050804-0": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "1532039050804-1": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "1532039050804-2": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            }
+          },
+          "block_order": [
+            "1532039050804-0",
+            "1532039050804-1",
+            "1532039050804-2"
+          ],
+          "settings": {
+            "title": "Testimonials",
+            "title_position": "center",
+            "blocks_text_align": "justify",
+            "hide_quotes": false,
+            "accent_line": "curved",
+            "accent_line_color": "#c8e7f6"
+          }
+        },
+        "1532039073433": {
+          "type": "image-with-text",
+          "blocks": {
+            "1532039073433-0": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "1532039073433-1": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "1532039073433-2": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            }
+          },
+          "block_order": [
+            "1532039073433-0",
+            "1532039073433-1",
+            "1532039073433-2"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "autoplay": true,
+            "duration": 4,
+            "color_style": "black",
+            "show_margins": false,
+            "slide_height": "five-fifty-height-hero",
+            "slide_image_position": "left",
+            "slide_image_width": "med_s34|med_s14",
+            "subheading": "Humble Beginnings",
+            "title": "Tell a Story",
+            "content": "<p>By showcasing a product, collection, or your brand.<\/p>",
+            "cta": "",
+            "link": ""
+          }
+        },
+        "1532039151588": {
+          "type": "instagram",
+          "settings": {
+            "instaToken": "",
+            "rows": 2,
+            "title": "Instagram",
+            "cta": "Follow Us",
+            "link": ""
+          }
+        },
+        "list-collections-page-template": {
+          "type": "list-collections-page-template",
+          "settings": {
+            "show_description": true,
+            "collections_columns": 2,
+            "coll_text_position": "center",
+            "button_text": "View Products",
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 10
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "show_blog_name": false,
+            "show_rss": false,
+            "show_featured_post": true,
+            "tags": true,
+            "author": true,
+            "show_comments": true,
+            "article_rows": 4,
+            "article_columns": 4,
+            "accent_line": "curved",
+            "accent_line_color": "#333"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "1532039480983": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Shop Now",
+                "link": "shopify:\/\/collections\/all",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            },
+            "1532039484050": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Shop Now",
+                "link": "shopify:\/\/collections\/all",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            }
+          },
+          "block_order": [
+            "1532039480983",
+            "1532039484050"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "slide",
+            "dots_position": "center",
+            "slide_height": "five-fifty-height-hero"
+          }
+        },
+        "1532039795680": {
+          "type": "icons-row",
+          "blocks": {
+            "1532039795680-0": {
+              "type": "text",
+              "settings": {
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1532039795680-1": {
+              "type": "text",
+              "settings": {
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1532039795680-2": {
+              "type": "text",
+              "settings": {
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            }
+          },
+          "block_order": [
+            "1532039795680-0",
+            "1532039795680-1",
+            "1532039795680-2"
+          ],
+          "settings": {
+            "color_icons_bg": "#c8e7f6",
+            "color_icons_text": "#333"
+          }
+        },
+        "1532041611167": {
+          "type": "collection-list",
+          "blocks": {
+            "1532041611167-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "Add a small note here",
+                "button_text": "View Products"
+              }
+            },
+            "1532041611167-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "",
+                "button_text": "View Products"
+              }
+            },
+            "1532041611167-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "Add a small note here",
+                "button_text": ""
+              }
+            },
+            "1532041611167-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "Add a small note here",
+                "button_text": "View Products"
+              }
+            },
+            "1532041611167-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": "",
+                "vertical_description": "Add a small note here",
+                "button_text": "View Products"
+              }
+            }
+          },
+          "block_order": [
+            "1532041611167-0",
+            "1532041611167-1",
+            "1532041611167-2",
+            "1532041611167-3",
+            "1532041611167-4"
+          ],
+          "settings": {
+            "title": "",
+            "subtitle": "",
+            "coll_text_position": "bottom_left",
+            "show_description": true,
+            "blocks_height": "default-height",
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 30
+          }
+        },
+        "1532041725090": {
+          "type": "slideshow",
+          "blocks": {
+            "1532041725090-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "bottom-left",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "Magna Nullam Quam",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Shop Now",
+                "link": "shopify:\/\/collections\/all",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            }
+          },
+          "block_order": [
+            "1532041725090-0"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "slide",
+            "dots_position": "center",
+            "slide_height": "sixty-fifty-height-hero"
+          }
+        },
+        "1532041802273": {
+          "type": "logo-list",
+          "blocks": {
+            "1532041802273-0": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "1532041802273-1": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "1532041802273-2": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "1532041802273-3": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "1532041802273-4": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            },
+            "1532041802273-5": {
+              "type": "item_logo",
+              "settings": {
+                "logo_image": "",
+                "logo_url": ""
+              }
+            }
+          },
+          "block_order": [
+            "1532041802273-0",
+            "1532041802273-1",
+            "1532041802273-2",
+            "1532041802273-3",
+            "1532041802273-4",
+            "1532041802273-5"
+          ],
+          "settings": {
+            "color_logos_bg": "#ffffff"
+          }
+        },
+        "1532041814513": {
+          "type": "rich-text",
+          "settings": {
+            "layout": "default",
+            "title": "Describe your products or brand in detail here",
+            "content": "<p>Modular is a powerful Shopify theme that will set you apart from the rest. It features ample space to showcase your imagery with Mosaic, Image with text, and Slideshow sections.<\/p>",
+            "cta": "",
+            "link": ""
+          }
+        }
+      },
+      "content_for_index": [
+        "1498737500673",
+        "1532039073433",
+        "1532039018217",
+        "1532039795680",
+        "1532041611167",
+        "1532039050804",
+        "1532041725090",
+        "1532041802273",
+        "1532041814513",
+        "1532039151588"
+      ]
+    },
+    "Hoxton": {
+      "color_heading_new": "#000000",
+      "color_text_new": "#000000",
+      "color_primary_new": "#2b558d",
+      "color_secondary_new": "#000000",
+      "color_border_new": "#e4e4e4",
+      "color_background_new": "#ffffff",
+      "color_button_bg": "#000000",
+      "color_button_text": "#ffffff",
+      "color_top_bar": "#2b558d",
+      "color_top_bar_text": "#ffffff",
+      "color_header_bg_home": "rgba(0,0,0,0)",
+      "color_header_text_home": "#fff",
+      "color_header_bg": "rgba(0,0,0,0)",
+      "color_header_text": "#000000",
+      "color_header_bg_scroll": "#fff",
+      "color_header_text_scroll": "#000000",
+      "color_dropdown_bg": "#fff",
+      "color_dropdown_text": "#000000",
+      "drawer_bg_color": "#fff",
+      "drawer_text_color": "#000",
+      "header_icon_color_home": "#000000",
+      "header_bg_color_home": "#ffffff",
+      "header_icon_color": "#000000",
+      "header_bg_color": "#ffffff",
+      "color_badge_text": "#ffffff",
+      "color_badge_bg": "#2e3234",
+      "color_footer_text": "#000000",
+      "color_footer_bg": "#ffffff",
+      "color_bottom_bar_bg": "#fafafa",
+      "header_font_picker": "glegoo_n4",
+      "base_font_size": 12,
+      "heading_letter_spacing": 0,
+      "general_font_picker": "work_sans_n4",
+      "body_font_size": 14,
+      "body_letter_spacing": 0,
+      "enable_cart_order_notes": false,
+      "show_custom_cursor": false,
+      "enable_payment_button": true,
+      "custom_cursor_image": "",
+      "show_breadcrumbs": true,
+      "favicon": "",
+      "twitter_url": "",
+      "facebook_url": "",
+      "pinterest_url": "",
+      "instagram_url": "",
+      "tumblr_url": "",
+      "youtube_url": "",
+      "rss_url": "",
+      "share_on_twitter": true,
+      "share_on_facebook": true,
+      "share_on_pinterest": true,
+      "show_multiple_currencies": false,
+      "currency_format": "money_with_currency_format",
+      "supported_currencies": "INR GBP CAD USD AUD EUR JPY",
+      "default_currency": "USD",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "color_overlay_bg": "#000",
+      "color_seconsdary_new": "#2e3234",
+      "promo_banner_style": "primary",
+      "promo_url_enabled": false,
+      "logo_enabled": true,
+      "browse_by_tag_enabled": true,
+      "collection_collectionGrid_columns": "3",
+      "nav_bg_color": "#f4f4f4",
+      "nav_text_color": "#222222",
+      "twitter_via": "",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_other": "",
+            "logo_max_width": 100,
+            "show_site_name": true,
+            "show_account_icon": true,
+            "menu_list": "main-menu",
+            "nav_layout": "standard",
+            "links_position": "links_right",
+            "logo_position": "logo_left",
+            "meganav_image": "",
+            "meganav_image_heading": "",
+            "meganav_image_link": "",
+            "show_announcement": true,
+            "show_announcement_on_mobile": true,
+            "text": "<p>Broadcast sales, promos, or other offerings here<\/p>",
+            "link": ""
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "show_title": true,
+            "show_filter": true,
+            "show_sort_filter": true,
+            "show_banner": true,
+            "banner_height": "normal",
+            "banner_subheading": "",
+            "banner_text_position": "bottom-left",
+            "heading_size": "normal",
+            "text_size": "normal",
+            "banner_color_text": "#ffffff",
+            "banner_color_overlay": "#222222",
+            "banner_overlay_opacity": 10,
+            "featured": "none",
+            "featured_image": "",
+            "featured_heading": "Use this image showcase promotional content.",
+            "featured_text": "<p>Elaborate on it with rich text<\/p>",
+            "featured_button_text": "Learn More",
+            "featured_button_link": "",
+            "featured_color_text": "#ffffff",
+            "featured_color_overlay": "#222222",
+            "featured_overlay_opacity": 10
+          }
+        },
+        "1498737500673": {
+          "type": "slideshow",
+          "blocks": {
+            "1498737500673-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "left",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333333",
+                "overlay_opacity": 30,
+                "button_size": "large"
+              }
+            },
+            "1498737500673-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "left",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Learn More",
+                "link": "",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "large"
+              }
+            }
+          },
+          "block_order": [
+            "1498737500673-0",
+            "1498737500673-1"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "fade",
+            "dots_position": "center",
+            "slide_height": "one-hundred-height-hero"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "product_layout": "scrollable",
+            "image_gallery": "lightbox",
+            "image_size": "large",
+            "show_vendor": true,
+            "show_quantity": false,
+            "show_cart_bar": true,
+            "show_newsletter": true,
+            "text_newsletter": "<p>Notify me when this product is available:<\/p>",
+            "page_tab_1": "",
+            "page_tab_2": "",
+            "page_tab_3": "",
+            "product_slideshow_dots": false,
+            "product_slideshow_arrows": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1528202806381": {
+              "type": "logo",
+              "settings": {
+                "logo": "",
+                "logo_width": 150,
+                "mobile_hide_block": false
+              }
+            },
+            "1528202808725": {
+              "type": "menu",
+              "settings": {
+                "mobile_hide_block": true
+              }
+            }
+          },
+          "block_order": [
+            "1528202806381",
+            "1528202808725"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        },
+        "popup": {
+          "type": "popup",
+          "settings": {
+            "show_popup": "disabled",
+            "show_popup_newsletter": true,
+            "popup_delay": 5,
+            "popup_reappear_time": "7",
+            "popup_image": ""
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "color": "#222",
+            "background": "#fff",
+            "title": "Newsletter",
+            "content": "<p>Let's keep in touch<\/p>"
+          }
+        },
+        "product-features": {
+          "type": "product-features",
+          "blocks": {
+            "1528250359730": {
+              "type": "text",
+              "settings": {
+                "heading": "This is a heading for a Product feature block.",
+                "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+                "image": "",
+                "image_link": "",
+                "button_text": "",
+                "button_link": ""
+              }
+            },
+            "1528250384489": {
+              "type": "text",
+              "settings": {
+                "heading": "This is a heading for a Product feature block.",
+                "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+                "image": "",
+                "image_link": "",
+                "button_text": "",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1528250359730",
+            "1528250384489"
+          ],
+          "settings": {
+            "blocks_alignment": "center"
+          }
+        },
+        "rich-text": {
+          "type": "rich-text",
+          "settings": {
+            "layout": "default",
+            "title": "",
+            "content": "",
+            "cta": "",
+            "link": ""
+          }
+        },
+        "icons-row": {
+          "type": "icons-row",
+          "blocks": {
+            "1528250366509": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1528250367690": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1528250369041": {
+              "type": "text",
+              "settings": {
+                "icon_name": "shop",
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            }
+          },
+          "block_order": [
+            "1528250366509",
+            "1528250367690",
+            "1528250369041"
+          ],
+          "settings": {
+            "color_icons_bg": "#fafafa",
+            "color_icons_text": "#333"
+          }
+        },
+        "1532039018217": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "",
+            "collection1": "frontpage"
+          }
+        },
+        "1532039050804": {
+          "type": "testimonials",
+          "blocks": {
+            "1532039050804-0": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "1532039050804-1": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            },
+            "1532039050804-2": {
+              "type": "testimonial",
+              "settings": {
+                "blockquote": "Use this testimonial as an opportunity for your most valued customer to discuss your brand and what sets you apart from the competition. This section looks best when limited to two or three lines!",
+                "author": "John Doe"
+              }
+            }
+          },
+          "block_order": [
+            "1532039050804-0",
+            "1532039050804-1",
+            "1532039050804-2"
+          ],
+          "settings": {
+            "title": "Testimonials",
+            "title_position": "center",
+            "blocks_text_align": "justify",
+            "hide_quotes": false,
+            "accent_line": "curved",
+            "accent_line_color": "#333333"
+          }
+        },
+        "1532039073433": {
+          "type": "image-with-text",
+          "blocks": {
+            "1532039073433-0": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "1532039073433-1": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            },
+            "1532039073433-2": {
+              "type": "gallery_image",
+              "settings": {
+                "slide": ""
+              }
+            }
+          },
+          "block_order": [
+            "1532039073433-0",
+            "1532039073433-1",
+            "1532039073433-2"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "autoplay": true,
+            "duration": 4,
+            "color_style": "black",
+            "show_margins": false,
+            "slide_height": "five-fifty-height-hero",
+            "slide_image_position": "left",
+            "slide_image_width": "med_s34|med_s14",
+            "subheading": "Humble Beginnings",
+            "title": "Tell a Story",
+            "content": "<p>By showcasing a product, collection, or your brand.<\/p>",
+            "cta": "",
+            "link": ""
+          }
+        },
+        "1532039110708": {
+          "type": "featured-blog",
+          "settings": {
+            "blogName": "news",
+            "heading": "",
+            "text": "",
+            "cta": "",
+            "tags": true,
+            "author": true,
+            "article_rows": 1,
+            "article_columns": 4
+          }
+        },
+        "1532039151588": {
+          "type": "instagram",
+          "settings": {
+            "instaToken": "",
+            "rows": 2,
+            "title": "Instagram",
+            "cta": "Follow Us",
+            "link": ""
+          }
+        },
+        "list-collections-page-template": {
+          "type": "list-collections-page-template",
+          "settings": {
+            "show_description": true,
+            "collections_columns": 2,
+            "coll_text_position": "center",
+            "button_text": "View Products",
+            "text_color": "#ffffff",
+            "overlay_color": "#222222",
+            "overlay_opacity": 10
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "show_blog_name": false,
+            "show_rss": false,
+            "show_featured_post": true,
+            "tags": true,
+            "author": true,
+            "show_comments": true,
+            "article_rows": 4,
+            "article_columns": 4,
+            "accent_line": "curved",
+            "accent_line_color": "#333"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "1532039480983": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Shop Now",
+                "link": "shopify:\/\/collections\/all",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            },
+            "1532039484050": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "image_mobile": "",
+                "image_position": "center-center",
+                "alignment": "center",
+                "content_width": "one-half",
+                "color_style": "white",
+                "subheading": "",
+                "title": "Welcome to Modular",
+                "text": "<p>A unique layout with a striking design<\/p>",
+                "cta": "Shop Now",
+                "link": "shopify:\/\/collections\/all",
+                "cta_2": "",
+                "link_2": "",
+                "heading_size": "large",
+                "text_size": "normal",
+                "overlay_color": "#333",
+                "overlay_opacity": 30,
+                "button_size": "normal"
+              }
+            }
+          },
+          "block_order": [
+            "1532039480983",
+            "1532039484050"
+          ],
+          "settings": {
+            "showNavDots": true,
+            "showNavArrows": false,
+            "show_arrow_down": false,
+            "autoplay": true,
+            "duration": 4,
+            "transition": "slide",
+            "dots_position": "center",
+            "slide_height": "five-fifty-height-hero"
+          }
+        },
+        "1532039795680": {
+          "type": "icons-row",
+          "blocks": {
+            "1532039795680-0": {
+              "type": "text",
+              "settings": {
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1532039795680-1": {
+              "type": "text",
+              "settings": {
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            },
+            "1532039795680-2": {
+              "type": "text",
+              "settings": {
+                "title": "Feature",
+                "content": "Modular is a powerful Shopify theme that will set you apart from the rest with Mosaic, Image with text, and Slideshow sections."
+              }
+            }
+          },
+          "block_order": [
+            "1532039795680-0",
+            "1532039795680-1",
+            "1532039795680-2"
+          ],
+          "settings": {
+            "color_icons_bg": "#fafafa",
+            "color_icons_text": "#333"
+          }
+        },
+        "1532039811262": {
+          "type": "mosaic",
+          "blocks": {
+            "1532039811262-0": {
+              "type": "text",
+              "settings": {
+                "title": "Featured collection",
+                "subheading": "Best Seller",
+                "text": "Showcase a two of your best products, video, a collection, or text with the blocks in this section.",
+                "button_label": "Shop now",
+                "button_link": ""
+              }
+            },
+            "1532039811262-1": {
+              "type": "product",
+              "settings": {
+                "product": ""
+              }
+            },
+            "1532039811262-2": {
+              "type": "product",
+              "settings": {
+                "product": ""
+              }
+            }
+          },
+          "block_order": [
+            "1532039811262-0",
+            "1532039811262-1",
+            "1532039811262-2"
+          ],
+          "settings": {
+            "image": "",
+            "image_text": "",
+            "image_link": "",
+            "hide_image_mobile": false,
+            "blocks_layout": "offset",
+            "arrows_color": "white"
+          }
+        }
+      },
+      "content_for_index": [
+        "1498737500673",
+        "1532039795680",
+        "1532039811262",
+        "1532039018217",
+        "1532039073433",
+        "1532039050804",
+        "1532039110708",
+        "1532039151588"
+      ]
+    }
+  }
+}
