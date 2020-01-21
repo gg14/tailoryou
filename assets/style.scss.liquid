@@ -4144,7 +4144,8 @@ hr {
 	}
 
 	h4 {
-		font-size: $font_bodytext_size * 1.11;
+		//font-size: $font_bodytext_size;
+		font-size: 16px;
 		font-family: $general_font;
 		font-weight: $general_font_weight;
 		font-style: $general_font_style;
@@ -16284,3 +16285,20 @@ margin-right: 90px;
 	}
 }
 
+// reset price color on shop list
+.collectionBlock {
+	p {
+		color : unset;
+	}
+
+	.price.sale {
+		color     : gray;
+		font-size : 1.2rem;
+	}
+
+	.money {
+		color       : #00f23f;
+		font-size   : 1.2rem;
+		font-weight : bold;
+	}
+}
