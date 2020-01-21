@@ -17,7 +17,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -41,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579559964648</updated>
-      <workItem from="1579559968416" duration="3386000" />
+      <workItem from="1579559968416" duration="3755000" />
     </task>
     <servers />
   </component>
@@ -49,10 +49,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="175" key="SettingsEditor" timestamp="1579644240096">
+    <state x="341" y="175" key="SettingsEditor" timestamp="1579644930657">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1579644240096" />
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1579644930657" />
     <state x="486" y="293" width="1022" height="581" key="find.popup" timestamp="1579643588891">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
