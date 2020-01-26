@@ -4,7 +4,6 @@
     <list default="true" id="33910e6e-65f8-4737-9ffe-f4d4a369800f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/style.scss.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.scss.liquid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/featured-blog.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/sections/featured-blog.liquid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/blog-post.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/blog-post.liquid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,7 @@
       <workItem from="1579559968416" duration="5472000" />
       <workItem from="1579967414828" duration="3813000" />
       <workItem from="1579997058068" duration="9788000" />
+      <workItem from="1580080140098" duration="1856000" />
     </task>
     <servers />
   </component>
