@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33910e6e-65f8-4737-9ffe-f4d4a369800f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/style.scss.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/assets/style.scss.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/featured-blog.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/sections/featured-blog.liquid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snippets/blog-post.liquid" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/blog-post.liquid" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579559964648</updated>
       <workItem from="1579559968416" duration="5472000" />
-      <workItem from="1579967414828" duration="3221000" />
+      <workItem from="1579967414828" duration="3813000" />
+      <workItem from="1579997058068" duration="9788000" />
     </task>
     <servers />
   </component>
@@ -58,14 +60,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579996887495">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579996887495" />
     <state x="341" y="175" key="SettingsEditor" timestamp="1579644930657">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1579644930657" />
-    <state x="486" y="293" width="1022" height="581" key="find.popup" timestamp="1579646089170">
+    <state x="486" y="293" width="1022" height="581" key="find.popup" timestamp="1580073569174">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="486" y="293" width="1022" height="581" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1579646089170" />
+    <state x="486" y="293" width="1022" height="581" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1580073569174" />
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1579970958017">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
